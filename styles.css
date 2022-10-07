@@ -1,23 +1,14 @@
 
 .carousel-inner{
     max-height: 30rem;
+}
+
+#servi img{
+    max-height: 100px !important;
 
 }
 
-.card-img-top{
-    height: 300px !important;
-}
+#servi2 img{
+    max-height: 100px !important;
 
-.menu a{
-    font-size: 20px !important;
-    font-weight: 700;
-
-}
-
-#login-icon{
-    height: 10rem;
-}
-
-.input-group-text img{
-    height: 1rem;
 }
